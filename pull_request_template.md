@@ -1,6 +1,6 @@
 # Pull Request Template
 
-## Description
+## The Description
 
 Include description of what has been changed and unclude relevant motivation and context.
 If needed,ensure to list all dependancies that are required for this change.
